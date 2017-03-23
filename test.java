@@ -1,0 +1,2 @@
+public Test extends Object {
+}
